@@ -2,7 +2,7 @@
 "error":false,
 "music":true,
 "DownloadMusicMp3":true,
-"VideoDownloader":true,
+"VideoDownloader":false,
 "VideoPlayerrison":true,
 "videodownloadervegas":true,
 "mbitsdkrapid":true,

@@ -12,6 +12,7 @@
 "HDProjectorParth":true,
 "HDProjectorBrijes":true,
 "mbitvegas":true,
+"VideoDownloaderRS":true,
 "VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
 "VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
 "VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
@@ -38,6 +39,7 @@
 "videoplayerBannerVegas":"ca-app-pub-3940256099942544/6300978111",
 "videoplayerIntertialVegas":"ca-app-pub-3940256099942544/1033173712",
 "videoplayerNativeVegas":"ca-app-pub-3940256099942544/2247696110",
+"videoplayerOpenVegas":"ca-app-pub-3940256099942544/3419835294",
 "HDProjectorParthBanner":"ca-app-pub-3940256099942544/6300978111",
 "HDProjectorParthIntertial":"ca-app-pub-3940256099942544/1033173712",
 "HDProjectorParthNative":"ca-app-pub-3940256099942544/2247696110",
@@ -50,6 +52,10 @@
 "mbitIntertialVegas":"ca-app-pub-3940256099942544/1033173712",
 "mbitNativeVegas":"ca-app-pub-3940256099942544/2247696110",
 "mbitOpenVegas":"ca-app-pub-3940256099942544/3419835294",
+"VideoDownloadBannerRS":"ca-app-pub-3940256099942544/6300978111",
+"VideoDownloadIntertialRS":"ca-app-pub-3940256099942544/1033173712",
+"VideoDownloadNativeRS":"ca-app-pub-3940256099942544/2247696110",
+"VideoDownloadOpenRS":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",

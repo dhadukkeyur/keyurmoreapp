@@ -9,6 +9,7 @@
 "VideoPlayerParth":true,
 "VideoPlayervegas":true,
 "VideoDownloaderRison":true,
+"livetvvegas":true,
 "HDProjectorParth":true,
 "HDProjectorBrijes":true,
 "mbitvegas":true,
@@ -56,6 +57,10 @@
 "VideoDownloadIntertialRS":"ca-app-pub-3940256099942544/1033173712",
 "VideoDownloadNativeRS":"ca-app-pub-3940256099942544/2247696110",
 "VideoDownloadOpenRS":"ca-app-pub-3940256099942544/3419835294",
+"LivetvBannerVegas":"ca-app-pub-3940256099942544/6300978111",
+"LivetvIntertialVegas":"ca-app-pub-3940256099942544/1033173712",
+"LivetvNativeVegas":"ca-app-pub-3940256099942544/2247696110",
+"LivetvOpenVegas":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",
@@ -68,16 +73,10 @@
 "imgURL":"https://playwincoin.s3.us-west-1.amazonaws.com/3.png"
 },
 {
-"name":"Test your tech skills & win now",
-"playstorLink":"https://1373.win.qureka.com",
-"imgURL":"https://testskillyour.s3.us-west-1.amazonaws.com/9.png"
-},
-{
 "name":"play Cricket contests running for 50,000 Coins daily",
 "playstorLink":"https://1373.win.qureka.com",
 "imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
 },
-
 {
 "name": "Play Cricket Quiz & Win Now",
 "playstorLink": "https://1373.win.qureka.com",

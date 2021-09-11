@@ -10,10 +10,12 @@
 "VideoPlayervegas":true,
 "VideoDownloaderRison":true,
 "livetvvegas":false,
+"mbitparth":false,
 "HDProjectorParth":true,
 "HDProjectorBrijes":true,
 "mbitvegas":true,
 "VideoDownloaderRS":true,
+"HDProjectorRS":false,
 "VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
 "VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
 "VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
@@ -61,6 +63,10 @@
 "LivetvIntertialVegas":"ca-app-pub-3940256099942544/1033173712",
 "LivetvNativeVegas":"ca-app-pub-3940256099942544/2247696110",
 "LivetvOpenVegas":"ca-app-pub-3940256099942544/3419835294",
+"HDProjectorBannerRS":"ca-app-pub-3940256099942544/6300978111",
+"HDProjectorIntertialRS":"ca-app-pub-3940256099942544/1033173712",
+"HDProjectorNativeRS":"ca-app-pub-3940256099942544/2247696110",
+"HDProjectorOpenRS":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",

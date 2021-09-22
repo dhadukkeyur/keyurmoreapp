@@ -18,6 +18,7 @@
 "HDProjectorRS":false,
 "FreeDiamondVEGAS":false,
 "FreeDiamondRison":false,
+"TrucalllerParth":false,
 "VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
 "VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
 "VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
@@ -77,6 +78,10 @@
 "FreeDiamondRisonIntertial":"ca-app-pub-3940256099942544/1033173712",
 "FreeDiamondRisonNative":"ca-app-pub-3940256099942544/2247696110",
 "FreeDiamondRisonOpenAds":"ca-app-pub-3940256099942544/3419835294",
+"TrucalllerParthBanner":"ca-app-pub-3940256099942544/6300978111",
+"TrucalllerParthIntertial":"ca-app-pub-3940256099942544/1033173712",
+"TrucalllerParthNative":"ca-app-pub-3940256099942544/2247696110",
+"TrucalllerParthOpen":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",

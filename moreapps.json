@@ -94,10 +94,10 @@
 "VideoDownloadIntertialSANI":"",
 "VideoDownloadNativeSANI":"",
 "VideoDownloadOpenSANI":"",
-"GalleryRapidBanner":"ca-app-pub-3940256099942544/6300978111",
-"GalleryRapidIntertial":"ca-app-pub-3940256099942544/1033173712",
-"GalleryRapidNative":"ca-app-pub-3940256099942544/2247696110",
-"GalleryRapidOpen":"ca-app-pub-3940256099942544/3419835294",
+"GalleryRapidBanner":"",
+"GalleryRapidIntertial":"",
+"GalleryRapidNative":"",
+"GalleryRapidOpen":"",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",

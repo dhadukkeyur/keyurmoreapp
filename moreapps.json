@@ -14,30 +14,28 @@
 "HDProjectorParth":true,
 "HDProjectorBrijes":false,
 "mbitvegas":true,
-"VideoDownloaderRS":false,
-"VideoDownloaderSANI":false,
+"VideoDownloaderRS":true,
 "HDProjectorRS":false,
 "FreeDiamondVEGAS":false,
 "FreeDiamondRison":false,
 "TrucalllerParth":false,
 "VideoDownloader2":false,
-"GalleryRapid":false,
+"VideoDownloaderSani":false,
 "VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
 "VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
 "VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
 "VideoDownloadParthOpenads":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_OPEN_AD",
-"videoplayerbhanoBanner":"ca-app-pub-8022191987321637/5356979983",
-"videoplayerbhanoIntertial":"ab",
-"videoplayerbhanoNative":"ca-app-pub-8022191987321637/1433552005",
-"videoplayerOpenAdsbhano":"ab",
+"videoplayerbhanoBanner":"/419163168/com.ultrahdvideoplayer.hdfastvideodownloader.banner",
+"videoplayerbhanoIntertial":"/419163168/com.ultrahdvideoplayer.hdfastvideodownloader.interstitial",
+"videoplayerbhanoNative":"/419163168/com.ultrahdvideoplayer.hdfastvideodownloader.native",
+"videoplayerOpenAdsbhano":"/419163168/com.ultrahdvideoplayer.hdfastvideodownloader.appopen",
 "MbitrapidBanner":"",
 "MbitrapidIntertial":"",
 "MbitrapidNative":"",
 "MbitrapidOpen":"",
-"VideoplayerBannerParth":"ca-app-pub-8022191987321637/8261850081",
-"VideoplayerIntertialParth":"ca-app-pub-3940256099942544/1033173712",
-"VideoplayerNativeParth":"ca-app-pub-8022191987321637/4973836603",
-"VideoplayerOpenParth":"ca-app-pub-3940256099942544/3419835294",
+"VideoplayerBannerParth":"ab",
+"VideoplayerIntertialParth":"ab",
+"VideoplayerNativeParth":"ab",
 "VideoDownloadBannerRison":"/206696744,22495921917/HeeWorks/com.mp4videostatusdownloader.socialmediahddownloader_banner",
 "VideoDownloadIntertialRison":"/206696744,22495921917/HeeWorks/com.mp4videostatusdownloader.socialmediahddownloader_interstitial",
 "VideoDownloadNativeRison":"/206696744,22495921917/HeeWorks/com.mp4videostatusdownloader.socialmediahddownloader_native",
@@ -90,14 +88,10 @@
 "VideoDownloaderIntertial2":"ca-app-pub-3940256099942544/1033173712",
 "VideoDownloaderNative2":"ca-app-pub-3940256099942544/2247696110",
 "VideoDownloaderOpen2":"ca-app-pub-3940256099942544/3419835294",
-"VideoDownloadBannerSANI":"",
-"VideoDownloadIntertialSANI":"",
-"VideoDownloadNativeSANI":"",
-"VideoDownloadOpenSANI":"",
-"GalleryRapidBanner":"",
-"GalleryRapidIntertial":"",
-"GalleryRapidNative":"",
-"GalleryRapidOpen":"",
+"VideoDownloaderBannerSani":"ca-app-pub-3940256099942544/6300978111",
+"VideoDownloaderIntertialSani":"ca-app-pub-3940256099942544/1033173712",
+"VideoDownloaderNativeSani":"ca-app-pub-3940256099942544/2247696110",
+"VideoDownloaderOpenSani":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",
@@ -105,9 +99,34 @@
 "imgURL":"https://play-lh.googleusercontent.com/lYBiVcSSQ-91Da5yCTigk-fEqMJvJVGcqyavToMp6vyRASr0k66zQGx-wiSVS_SLhKw=s80"
 },
 {
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
 "name":"Play and win coins now",
 "playstorLink":"https://1373.win.qureka.com",
 "imgURL":"https://playwincoin.s3.us-west-1.amazonaws.com/3.png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
+},
+{
+"name":"play Cricket contests running for 50,000 Coins daily",
+"playstorLink":"https://1373.win.qureka.com",
+"imgURL":"https://playcrctdaily.s3.us-west-1.amazonaws.com/5+(3).png"
 },
 {
 "name":"play Cricket contests running for 50,000 Coins daily",

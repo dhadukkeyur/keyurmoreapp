@@ -27,6 +27,7 @@
 "VpnRison":true,
 "LiveCall":false,
 "VideoDownloaderSpider":false,
+"SpiderVideoDownloader2":false,
 "VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
 "VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
 "VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
@@ -127,6 +128,10 @@
 "VideoDownloaderSpiderIntertial":"",
 "VideoDownloaderSpiderNative":"",
 "VideoDownloaderSpiderOpen":"",
+"VideoDownloaderBanner2":"ca-app-pub-3940256099942544/6300978111",
+"VideoDownloaderIntertial2":"ca-app-pub-3940256099942544/1033173712",
+"VideoDownloaderNative2":"ca-app-pub-3940256099942544/2247696110",
+"VideoDownloaderOpen2":"ca-app-pub-3940256099942544/3419835294",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",

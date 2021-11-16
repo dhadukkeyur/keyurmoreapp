@@ -30,6 +30,8 @@
 "SpiderVideoDownloader2":false,
 "Trucalllerspider":false,
 "Trucalllerab1":false,
+"DiamondGuidekb1":false,
+"GBVersion":false,
 "VideoDownloadBannerParth":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_TOP_AD",
 "VideoDownloadParthIntertial":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_INTERSTITIAL",
 "VideoDownloadParthNative":"/21952429235,22498575436/TTS_VIDEODOWNLOADER2021_NATIVE_AD",
@@ -142,6 +144,14 @@
 "Trucalllerab1Intertial":"",
 "Trucalllerab1Native":"",
 "Trucalllerab1Open":"",
+"GBVersionBanner":"",
+"GBVersionFullScreen":"",
+"GBVersionNative":"",
+"GBVersionOpen":"",
+"DiamondGuidekb1Banner":"",
+"DiamondGuidekb1FullScreen":"",
+"DiamondGuidekb1Native":"",
+"DiamondGuidekb1Open":"",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",

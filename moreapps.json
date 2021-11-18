@@ -63,10 +63,6 @@
 "HDProjectorParthIntertial":"/419163168,22482177790/com.hdvideoprojector2021.dreamappsol.videoliveprojector.Interstitial",
 "HDProjectorParthNative":"/419163168,22482177790/com.hdvideoprojector2021.dreamappsol.videoliveprojector.native",
 "HDProjectorParthOpen":"/419163168,22482177790/com.hdvideoprojector2021.dreamappsol.videoliveprojector.appopen",
-"brijesHDProjectorBanner":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_Banner",
-"brijesHDProjectorIntertial":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_Interestitial",
-"brijesHDProjectorNative":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_Native",
-"brijesHDProjectorOpen":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_AppOpen",
 "mbitBannerVegas":"ca-app-pub-3940256099942544/6300978111",
 "mbitIntertialVegas":"ca-app-pub-3940256099942544/1033173712",
 "mbitNativeVegas":"ca-app-pub-3940256099942544/2247696110",
@@ -152,6 +148,10 @@
 "DiamondGuidekb1FullScreen":"",
 "DiamondGuidekb1Native":"",
 "DiamondGuidekb1Open":"",
+"brijesHDProjectorBanner":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_Banner",
+"brijesHDProjectorIntertial":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_Interestitial",
+"brijesHDProjectorNative":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_Native",
+"brijesHDProjectorOpen":"/21798997504/ACE_App_InfinityInfo_hdliveprojector2021.videophoneprojector_AppOpen",
 "data": [
 {
 "name":"VidMedia Video Downloader- Fast Video Downloader",
